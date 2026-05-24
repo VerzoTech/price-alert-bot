@@ -1,0 +1,6 @@
+SUPABASE_URL=https://jdpvhetqtsqcyncwujpx.supabase.co
+SUPABASE_SERVICE_KEY=your-new-service-key-after-rotating
+SUPABASE_ANON_KEY=your-new-anon-key-after-rotating
+DISCORD_WEBHOOK_URL=https://discord.com/api/webhooks/1508058685140893847/k2sPfiqHxbkgk_a6TOjnjZ2EdmbF_lyqzpP2vSRda35uc1BXELb2NDThCXugj5L5kCAF
+BOT_API_SECRET=generate-a-random-secret-here
+PORT=3001
